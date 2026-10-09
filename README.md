@@ -326,5 +326,5 @@ end
 * [https://github.com/rspec/rspec-core](https://github.com/rspec/rspec-core)
 * [https://github.com/rspec/rspec-mocks](https://github.com/rspec/rspec-mocks)
 * [https://github.com/rspec/rspec-rails](https://github.com/rspec/rspec-rails)
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+ 
