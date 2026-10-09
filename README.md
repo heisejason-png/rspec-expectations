@@ -327,4 +327,4 @@ end
 * [https://github.com/rspec/rspec-mocks](https://github.com/rspec/rspec-mocks)
 * [https://github.com/rspec/rspec-rails](https://github.com/rspec/rspec-rails)
 Created by Jason Heise
- 
+ Owned by Jason Heise heisejason-png Giters
